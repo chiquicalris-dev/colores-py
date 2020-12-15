@@ -1,5 +1,3 @@
-# colores-py
-
 # Tkinter & Python Colors Chart
 
 ## ¿Qué es esto?
