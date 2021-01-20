@@ -1,4 +1,4 @@
-# Tkinter & Python Colors Chart
+# TKinter & Python Colors Chart
 
 ## ¿Qué es esto?
 Esto es tan solo una herramienta bastante útil para identificar los nombres de los colores a la hora de realizar un proyecto.
