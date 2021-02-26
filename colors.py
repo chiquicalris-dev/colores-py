@@ -1,5 +1,5 @@
 from tkinter import *
-
+ 
 MAX_ROWS = 36
 FONT_SIZE = 10 # (pixels)
 
