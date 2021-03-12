@@ -2,7 +2,7 @@ from tkinter import *
  
 MAX_ROWS = 36
 FONT_SIZE = 10 # (pixels)
-
+ 
 COLORS = ['snow', 'ghost white', 'white smoke', 'gainsboro', 'floral white', 'old lace',
     'linen', 'antique white', 'papaya whip', 'blanched almond', 'bisque', 'peach puff',
     'navajo white', 'lemon chiffon', 'mint cream', 'azure', 'alice blue', 'lavender',
