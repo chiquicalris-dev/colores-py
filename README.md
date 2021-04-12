@@ -6,3 +6,4 @@ Esto es tan solo una herramienta bastante útil para identificar los nombres de 
 ## ¿Cómo puedo ejecutarlo?
 Para ejecutarlo debes disponer de *python* y *tkinter* en tu pc, una vez que dispongas de esto debes ejecutar el comando *python colors.py*
  
+ 
