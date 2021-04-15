@@ -8,3 +8,4 @@ Para ejecutarlo debes disponer de *python* y *tkinter* en tu pc, una vez que dis
  
  
  
+ 
